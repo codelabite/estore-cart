@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "_id": "Bender",
+      "title": "Fruit Juiuce Bender",
+      "image": "/images/bender.jpg",
+      "description": "Best bender that can get most from your fruits",
+      "price": 22000,
+      "availableSizes": ["XL", "SM"]
+    },
+
+    {
+      "_id": "Kitchen Tool 1",
+      "title": "Kitchen Tool 1",
+      "image": "/images/c2.jpg",
+      "description": "Kitchen Tool 1",
+      "price": 33000,
+      "availableSizes": ["XL", "XXL"]
+    },
+
+    {
+      "_id": "Kitchen Tool 2",
+      "title": "Kitchen Tool 2",
+      "image": "/images/chii.jpg",
+      "description": "Kitchen Tool 3",
+      "price": 5400,
+      "availableSizes": ["XL", "XXL", "SM"]
+    },
+
+    {
+      "_id": "Kitchen Tool 4",
+      "title": "Kitchen Tool 4",
+      "image": "/images/chiller.jpg",
+      "description": "Kitchen Tool 4",
+      "price": 10000,
+      "availableSizes": ["SM"]
+    },
+
+    {
+      "_id": "Kitchen Tool 5",
+      "title": "Kitchen Tool 5",
+      "image": "/images/cup.jpg",
+      "description": "Kitchen Tool 5",
+      "price": 40000,
+      "availableSizes": ["XXL", "SM"]
+    },
+
+    {
+      "_id": "Kitchen Tool 6",
+      "title": "Kitchen Tool 6",
+      "image": "/images/g2.jpg",
+      "description": "Kitchen Tool 6",
+      "price": 14500,
+      "availableSizes": ["XL", "XXL"]
+    },
+
+    {
+      "_id": "Kitchen Tool 7",
+      "title": "Kitchen Tool 7",
+      "image": "/images/heater.jpg",
+      "description": "Kitchen Tool 7",
+      "price": 25000,
+      "availableSizes": ["XXL", "SM"]
+    },
+
+    {
+      "_id": "Kitchen Tool 8",
+      "title": "Kitchen Tool 8",
+      "image": "/images/heater ring.jpg",
+      "description": "Kitchen Tool 8",
+      "price": 33500,
+      "availableSizes": ["XL", "XXL"]
+    },
+
+    {
+      "_id": "Kitchen Tool 9",
+      "title": "Kitchen Tool 9",
+      "image": "/images/mixer.jpg",
+      "description": "Kitchen Tool 9",
+      "price": 10000,
+      "availableSizes": ["XXL", "SM"]
+    },
+
+    {
+      "_id": "Kitchen Tool 10",
+      "title": "Kitchen Tool 10",
+      "image": "/images/oven.jpg",
+      "description": "Kitchen Tool 10",
+      "price": 45000,
+      "availableSizes": ["XL", "XXL"]
+    },
+
+    {
+      "_id": "Kitchen Tool 11",
+      "title": "Kitchen Tool 11",
+      "image": "/images/tooser.jpg",
+      "description": "Kitchen Tool 11",
+      "price": 71000,
+      "availableSizes": ["XL", "XXL"]
+    },
+
+    {
+      "_id": "Kitchen Tool 12",
+      "title": "Kitchen Tool 12",
+      "image": "/images/Tooser1.jpg",
+      "description": "Kitchen Tool 12",
+      "price": 7700,
+      "availableSizes": ["XL", "XXL"]
+    }
+  ]
+}
